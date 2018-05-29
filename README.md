@@ -1,5 +1,8 @@
+This version is no longer supported. 
+===
+
 Cordova plugin for Android to bring an app to foreground
-===================================================
+---
 
 This plugin can only start other activites. As far as I know, this does not include other cordova plugins.
 
